@@ -23,7 +23,7 @@
     </ItemGroup>
 
     <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-      <Exec Command="xcopy /F /Y &quot;$(ProjectDir)ffmpeg&quot; &quot;$(TargetDir)ffmpeg&quot;" />
+       <Exec Command="cmd /x /c mkdir $(TargetDir)ffmpeg&quot;&#xD;&#xA;xcopy /F /Y &quot;$(ProjectDir)ffmpeg&quot; &quot;$(TargetDir)ffmpeg&quot;" />
     </Target>
     
 
