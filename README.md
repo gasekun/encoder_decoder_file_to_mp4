@@ -3,7 +3,7 @@
 Run
 1. Download project
 2. Download .Net 7.0.2 SDK
-3. Download ffmpeg files and put folder name "ffmpeg" to project folder
+3. Download [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl-shared.zip) files and put folder name "ffmpeg" to project folder
 4. Build project
 
 Use
