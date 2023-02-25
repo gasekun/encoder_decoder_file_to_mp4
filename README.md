@@ -1,4 +1,4 @@
-﻿# encoder_decoder_file_to_mp4
+﻿# Encoder and decoder file to mp4 for upload video to youtube
  
 Run
 1. Download project
