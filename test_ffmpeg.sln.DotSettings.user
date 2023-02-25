@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Cproject_005CC_0023_0020project_005Ctest_005Fffmpeg_005Cbin_005Cx64_005CDebug_005Cnet7_002E0_005Clib_005Cbin_005Cavcodec_002D53_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Cproject_005CC_0023_0020project_005Ctest_005Fffmpeg_005Cbin_005Cx64_005CDebug_005Cnet7_002E0_005Clib_005Cbin_005Cavdevice_002D53_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Cproject_005CC_0023_0020project_005Ctest_005Fffmpeg_005Cbin_005Cx64_005CDebug_005Cnet7_002E0_005Clib_005Cbin_005Cavfilter_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Cproject_005CC_0023_0020project_005Ctest_005Fffmpeg_005Cbin_005Cx64_005CDebug_005Cnet7_002E0_005Clib_005Cbin_005Cavformat_002D53_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Cproject_005CC_0023_0020project_005Ctest_005Fffmpeg_005Cbin_005Cx64_005CDebug_005Cnet7_002E0_005Clib_005Cbin_005Cavutil_002D51_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Cproject_005CC_0023_0020project_005Ctest_005Fffmpeg_005Cbin_005Cx64_005CDebug_005Cnet7_002E0_005Clib_005Cbin_005Cpostproc_002D52_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Cproject_005CC_0023_0020project_005Ctest_005Fffmpeg_005Cbin_005Cx64_005CDebug_005Cnet7_002E0_005Clib_005Cbin_005Cswresample_002D0_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Cproject_005CC_0023_0020project_005Ctest_005Fffmpeg_005Cbin_005Cx64_005CDebug_005Cnet7_002E0_005Clib_005Cbin_005Cswscale_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">ERROR</s:String>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/FiltersState/=CodeStyle/@EntryIndexedValue">Off</s:String>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/FiltersState/=NamingFilter/@EntryIndexedValue">Off</s:String>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/FiltersState/=SpellingFilter/@EntryIndexedValue">Off</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=11bab8bc_002Dd61c_002D434b_002Da29c_002D3ec8ec97a833/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a48174cb_002Da333_002D4997_002Db45b_002Dd18e3ca9ba69/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/Initialized/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

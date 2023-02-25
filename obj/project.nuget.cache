@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQvGIO7biUwSRjH509SinsW7GY1cYii3bINr0bHe4+yWwXMx6b25I9Ao9dS6eEXoLDSbfX6l+JsS0Eg3lMgVAg==",
+  "success": true,
+  "projectFilePath": "D:\\project\\C# project\\test_ffmpeg\\test_ffmpeg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kolyk\\.nuget\\packages\\ffmediatoolkit\\4.4.1\\ffmediatoolkit.4.4.1.nupkg.sha512",
+    "C:\\Users\\kolyk\\.nuget\\packages\\ffmpeg.autogen\\5.0.0\\ffmpeg.autogen.5.0.0.nupkg.sha512",
+    "C:\\Users\\kolyk\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-preview.1.23110.8\\microsoft.win32.systemevents.8.0.0-preview.1.23110.8.nupkg.sha512",
+    "C:\\Users\\kolyk\\.nuget\\packages\\system.drawing.common\\8.0.0-preview.1.23110.8\\system.drawing.common.8.0.0-preview.1.23110.8.nupkg.sha512"
+  ],
+  "logs": []
+}

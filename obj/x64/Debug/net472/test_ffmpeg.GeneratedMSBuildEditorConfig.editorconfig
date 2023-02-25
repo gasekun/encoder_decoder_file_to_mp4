@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = test_ffmpeg
+build_property.ProjectDir = D:\project\C# project\test_ffmpeg\
