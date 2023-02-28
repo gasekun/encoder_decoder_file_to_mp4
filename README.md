@@ -1,5 +1,5 @@
 ﻿# Encoder and decoder file to mp4 for upload video to youtube
- 
+ONLY RUN ON WINDOWS
 Run
 1. Download project
 2. Download .Net 7.0.2 SDK
